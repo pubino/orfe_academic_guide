@@ -52,12 +52,12 @@
 
 #### Class of '21
 
-  **Student**   **Advisor**
-  ------------- --------------------------------------------------------------------
-  **A-E**       Prof. William Massey, Room 206, x8-5373, wmassey\@princeton.edu
-  **F-K**       Prof. Mykhaylo Shkolnikov,Room 202,x8-1044,mykhaylo\@princeton.edu
-  **L-P**       Prof. Rene Carmona, Room 210, x8-2310, rcarmona\@princeton.edu
-  **Q-Z**       Prof. Miklos Racz, Room 204, x8-8281, mracz\@princeton.edu
+| Student | Advisor |
+| ------- | --------|
+| **A-E** | Prof. William Massey, Room 206, x8-5373, wmassey\@princeton.edu |
+| **F-K** | Prof. Mykhaylo Shkolnikov,Room 202,x8-1044,mykhaylo\@princeton.edu |
+| **L-P** | Prof. Rene Carmona, Room 210, x8-2310, rcarmona\@princeton.edu |
+| **Q-Z** | Prof. Miklos Racz, Room 204, x8-8281, mracz\@princeton.edu |
 
 #### Class of '22
 
