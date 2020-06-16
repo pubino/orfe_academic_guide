@@ -163,15 +163,119 @@ The Department of Operations Research and Financial Engineering does not offer A
 
 ## Academic Program Details
 
-### SEAS Requirements
+### School of Engineering and Applied Sciences (SEAS) Requirements
 
-**ORFE Requirements**
+MAT 103, 104; COS 126; CHM 201 or 207; PHY 103 or 105, 104 or 106; MAT
+201 or 203, 202 or 204 or 217
 
 ### Core Program
+(4 Courses)
+
+#### ORF 245 Fundamentals of Engineering Statistics
+
+A study of fundamentals of statistical methods and their applications in engineering. Basic concepts of probability, discrete and continuous distributions, sampling and quality control, statistical inference, empirical models, and least squares. Prerequisite: Mat 201 taken concurrently, prior to, or equivalent.
+
+#### ORF 307 Optimization
+
+Model formulation, analysis, and optimization of deterministic systems. Introduction to quantitative methods: linear programming, duality theory, large-scale mathematical programs, and network analysis. Emphasis will be on applications to problem areas such as allocation of resources, transportation systems, scheduling, capital budgeting, and network problems. Two 90-minute lectures. Prerequisite: MAT 202 or 204. It is strongly recommended that COS 126 or equivalent be taken prior to
+or concurrently with this course.
+
+#### ORF 309 Probability and Stochastic Systems
+
+An introduction to probability and its applications. Random variables, expectation, and independence. Poisson processes, Markov chains, Markov processes, and Brownian motion. Stochastic models of queues, communication systems, random signals, and reliability. Prerequisite: MAT 201, or instructor\'s permission.
+
+#### ORF 335 Introduction to Financial Mathematics (also ECO 364)
+
+Financial engineers design and analyze products that improve the efficiency of markets and create mechanisms for reducing risk. This course introduces the basics of financial engineering: the notions of arbitrage and risk-neutral probability measure are developed in the case of discrete models; Black-Scholes theory is introduced in continuous-time models, and interest rate derivatives and the term structure of interest rates are discussed. Prerequisites: MAT 104, ORF
+309.
 
 ### Departmental Electives
+(10 or 11 Courses)
 
+The departmental electives represent courses that further develop a student's skills in mathematical modeling either by a more in-depth investigation of core methodologies, applying these skills in specific areas of application, or learning about closely related technologies. Students must choose ten courses from the following list, with the following constraints:
 
+* There must be at least four courses from ORFE
+* There can be no more than three courses from any one department (excluding ORFE)
 
-## Career Paths
+All departmental electives:
 
+* ORF 311 -- Stochastic Optimization and Machine Learning in Finance
+* ORF 350 -- Analysis of Big Data
+* ORF 360 -- Decision Modeling in Business Analytics
+* ORF 363 -- Computing and Optimization for the Physical and Social Sciences
+* ORF 375/376 - Junior Independent Work
+* ORF 387 - Networks
+* ORF 401 - Electronic Commerce
+* ORF 405 -- Regression and Applied Time Series
+* ORF 406 - Statistical Design of Experiments
+* ORF 407 -- Fundamentals of Queueing Theory
+* ORF 409 - Introduction to Monte Carlo Simulation
+* ORF 411 -- Sequential Decision Analytics and Modeling
+* ORF 417 - Dynamic Programming
+* ORF 418 - Optimal Learning
+* ORF 435 - Financial Risk and Wealth Management
+* ORF 455 -- Energy and Commodities Markets
+* ORF 467 -- Transportation Systems Analysis
+* ORF 473/474 - Special Topics in Operations Research and Financial Engineering
+* CEE 304 -- Environmental Engineering and Energy
+* CEE 460 - Risk Analysis
+* CHM 301 -- Organic Chemistry I
+* CHM 302 -- Organic Chemistry II
+* COS 217 - Introduction to Programming Systems
+* COS 226 - Algorithms and Data Structures
+* COS 323 - Computing for the Physical and Social Sciences
+* COS 340 - Reasoning about Computation
+* COS 402 - Machine Learning and Artificial Intelligence
+* COS 423 - Theory of Algorithms
+* COS 425 -- Database and Information Management Systems
+* COS 485 -- Neural Networks: Theory and Application
+* ECO 310 - Microeconomic Theory: A Mathematical Approach
+* ECO 311/312 -- Macroeconomics: A Mathematical Approach
+* ECO 317 - The Economics of Uncertainty
+* ECO 332 -- Economics of Health and Health Care
+* ECO 341 - Public Finance
+* ECO 342 - Money and Banking
+* ECO 361 - Financial Accounting
+* ECO 362 - Financial Investments
+* ECO 363 - Corporate Finance and Financial Institutions
+* ECO 418 - Strategy and Information
+* ECO 462 - Portfolio Theory and Asset Management
+* ECO 464 - Corporate Restructuring
+* ECO 466 - Fixed Income: Models and Applications
+* ECO 467 - Institutional Finance
+* EEB 324 -- Theoretical Ecology
+* ELE 301 -- Designing Real Systems
+* ELE 381 -- Networks: Friends, Money and Bytes
+* ELE 485 -- Signal Analysis and Communication Systems
+* ELE 486 -- Transmission and Compression of Information
+* ENV 302 -- Practical Models for Environmental Systems
+* MAE 206 -- Introduction to Engineering Dynamics
+* MAE 345 -- Introduction to Robotics
+* MAE 433 - Automatic Control Systems
+* MAE 434 -- Modern Control
+* MAT 320 - Introduction to Real Analysis
+* MAT 322/APC 350 -- Introduction to Differential Equations
+* MAT 375 - Introduction to Graph Theory
+* MAT 377 - Combinatorial Mathematics
+* MAT 378 - Theory of Games
+* MAT 385 - Probability Theory
+* MAT 391/MAE 305 - Mathematics in Engineering I or MAT 427, (both may not be taken because content is too similar)
+* MAT 392/MAE 306 - Mathematics in Engineering II
+* MAT 427 - Ordinary Differential Equations
+* MAT 486 - Random Process
+* MAT 522 - Introduction to Partial Differential Equations
+* MOL 345 -- Biochemistry
+* MOL 457 -- Computational Aspects of Molecular Biology
+* NEU 437 -- Computational Neuroscience
+* NEU 330 -- Computational Modeling of Psychological Function
+* PSY 360 -- Computational Models of Cognition
+
+Students often wish to follow a theme in their selection of courses. Below are a few possible themes:
+
+* Applied Mathematics: MAT 375, 378, 321; MAE 406; ORF 405
+* Engineering Systems: ORF 409,467; COS 226, 323; ELE 301; MAE 433
+* Financial Engineering: ORF 311, 350, 405, 435; ECO 362, 465
+* Information Sciences: ORF 401, 418; COS 217, 226, 425
+* Machine Learning: COS 217, 226; ORF 350, 407, 411, 418
+* Pre-Med/Health Care: CHM 301, 302; MOL 345; ORF 350, 401, 411, 418
+* Statistics: ORF 311, 350, 409, 418, 405, 467
