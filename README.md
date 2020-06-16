@@ -34,8 +34,7 @@
 
 ### Department Chair
 
-* Professor Ronnie Sircar, x8-2841, <sircar@princeton.edu>
-* 106 Sherrerd Hall
+* Professor Ronnie Sircar, x8-2841, <sircar@princeton.edu>, 106 Sherrerd Hall
 
 ### The Undergraduate Office
 
