@@ -47,7 +47,7 @@
 
 * Professor Alain Kornhauser, x8-4657, <alaink@princeton.edu>, 229 Sherrerd Hall
 
-### ORFE Academic Advisors
+### Academic Advisors
 
 #### Class of '21
 
