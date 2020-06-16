@@ -1,4 +1,4 @@
-# ORFE Academic Guide
+# Operations Research & Financial Engineering (ORFE) Academic Guide
 
 ## Table of Contents
 
@@ -149,6 +149,29 @@ The University requires that 36 courses be taken to graduate. The School of Engi
 Each student selects and schedules courses in consultation with his/her academic advisor and the Departmental Representative. While generally no exceptions in the core courses are allowed, students may design specialized programs through their choice of departmental electives.
 
 Specialized programs must be approved by the Departmental Representative.
+
+### Graduate Courses
+
+You may take graduate courses for purposes of scholarly enrichment. In order to take them you must complete the "Permission for Undergraduates to Enroll in Graduate Courses" form with signatures from the course instructor, departmental representative, and Dean Bogucki. The completed form is submitted to the Office of the Registrar during open enrollment period. Graduate courses do not count towards departmental electives.
+
+You can find the necessary form here
+<https://registrar.princeton.edu/student-and-alumni-services/course-selection/adding-or-dropping-courses>.
+
+### ABET Accredited Engineering Degrees
+
+The Department of Operations Research and Financial Engineering does not offer ABET-accredited engineering degrees. This has never been a problem for ORFE majors in their pursuit of post-graduate opportunities, and our B.S.E. degrees are fully accredited under Princeton University's overall accreditation. If, however, it is important that you major in an ABET-accredited program of study (e.g. for eligibility for an outside scholarship), please take this into account when choosing your major. Further information on which Princeton program of study are ABET-accredited, please consult the *Undergraduate Announcement*, <https://ua.princeton.edu/>.
+
+## Academic Program Details
+
+### SEAS Requirements
+
+**ORFE Requirements**
+
+### Core Program
+
+### Departmental Electives
+
+
 
 ## Career Paths
 
