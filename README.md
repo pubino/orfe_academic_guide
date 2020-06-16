@@ -3,38 +3,36 @@
 ## [Important Contacts](#important-contacts)
 
 * [Department Chair](#department-chair)
-* [The Undergraduate Office](#ug-office)
-* [Academic Advisors](#advisors)
-* [Department Web Page](#webpage)
+* [The Undergraduate Office](#the-undergraduate-office)
+* [Academic Advisors](#academic-advisors)
+* [Department Web Page](#department-web-page)
 
-## [An Introduction to the Department](#intro)
+## [An Introduction to the Department](#an-introduction-to-the-department)
 
-* [Overview of the Undergraduate Academic Program](#overview)
+* [Overview of the Undergraduate Academic Program](#overview-of-the-undergraduate-academic-program)
 
-## [Academic Program Details](#program-details)
+## [Academic Program Details](#academic-program-details)
 
-* [School of Engineering and Applied Sciences (SEAS) Requirements](#seas-reqs)
-* [Core Program](#core)
-* [Department Electives](#electives)
-* [Junior Independent Work](#junior-work)
-* [Senior Thesis (ORF 478)](#senior-thesis)
-* [Senior Independent Project (ORF 479, Spring Semester Only)](#senior-project)
-* [Typical Course Schedule](#course-schedule)
+* [School of Engineering and Applied Sciences (SEAS) Requirements](#school-of-engineering-and-applied-sciences-(seas)-requirements)
+* [Core Program](#core-program)
+* [Department Electives](#department-electives)
+* [Junior Independent Work](#junior-independent-work)
+* [Senior Thesis (ORF 478)](#senior-thesis-(orf-478))
+* [Senior Independent Project (ORF 479, Spring Semester Only)](#senior-independent-project-(orf-479,-spring-semester-only))
+* [Typical Course Schedule](#typical-course-schedule)
 * [Elective Checklist](#elective-checklist)
-* [Departmental Honors](#dept-honors)
-* [Certificate of Interest to ORFE Students](#cert)
-* [Talking Courses at Other Schools](#other-schools)
+* [Departmental Honors](#departmental-honors)
+* [Certificate of Interest to ORFE Students](#certificate-of-interest-to-orfe-students)
+* [Taking Courses at Other Schools](#taking-courses-at-other-schools)
 
-## [Faculty and Their Research Interests](#fac-research)
-## [Research and Teaching Studios](#studios)
+## [Faculty and Their Research Interests](#faculty-and-their-research-interests)
+## [Research and Teaching Studios](#research-and-teaching-studios)
 ## [Career Paths](#career-paths)
 
-* Updates from Recent ORFE Graduates
+* [Updates from Recent ORFE Graduates](#updates-from-recent-orfe-graduates)
 
-## [Class of 2019 Senior Thesis Titles](#thesis-titles)
-## [Class of 2019 Post Graduate Plans](#grad-plans)
-
-
+## [Class of 2019 Senior Thesis Titles](#class-of-2019-senior-thesis-titles)
+## [Class of 2019 Post Graduate Plans](#class-of-2019-post-graduate-plans)
 
 ## Important Contacts
 
