@@ -61,25 +61,25 @@
 
 #### Class of '22
 
-  **Student**   **Advisor**
-  ------------- -------------------------------------------------------------------
-  **A-E**       Prof. Alain Kornhauser, Room 229, x8-4657, alaink\@princeton.edu
-  **F-K**       Prof. Ludovic Tangpi 203,x8-4558,ludovic.tangpi\@princeton.edu
-  **L-R**       Prof. Matias Cattaneo, Room 227, x8-8825, cattaneo\@princeton.edu
-  **S-Z**       Prof. Mete Soner, Room 225, x8-5130, soner\@princeton.edu
+| Student | Advisor |
+| ------- | ------- |
+| **A-E** | Prof. Alain Kornhauser, Room 229, x8-4657, alaink\@princeton.edu |
+| **F-K** | Prof. Ludovic Tangpi 203,x8-4558,ludovic.tangpi\@princeton.edu |
+| **L-R** | Prof. Matias Cattaneo, Room 227, x8-8825, cattaneo\@princeton.edu |
+| **S-Z** | Prof. Mete Soner, Room 225, x8-5130, soner\@princeton.edu |
 
 #### Class of '23
 
-  **Student**   **Advisor**
-  ------------- ------------------------------------------------------------------
-  **A-E**       Prof. John Mulvey, Room 207, x8-5423, mulvey\@princeton.edu
-  **F-K**       Prof. Ronnie Sircar 106,x8-2841, sircar\@princeton.edu
-  **L-R**       Prof. Alain Kornhauser, Room 229, x8-4657, alaink\@princeton.edu
-  **S-Z**       Prof. Amirali Ahmadi, Room 329, x8-6416, aaa\@princeton.edu
+| Student | Advisor |
+| ------- | ------- |
+| **A-E** | Prof. John Mulvey, Room 207, x8-5423, mulvey\@princeton.edu |
+| **F-K** | Prof. Ronnie Sircar 106,x8-2841, sircar\@princeton.edu |
+| **L-R** | Prof. Alain Kornhauser, Room 229, x8-4657, alaink\@princeton.edu |
+| **S-Z** | Prof. Amirali Ahmadi, Room 329, x8-6416, aaa\@princeton.edu |
 
 ### Department Web Page
 
-Additional information on the department can be found at our web site, orfe.princeton.edu.
+Additional information on the department can be found at our web site, <orfe.princeton.edu>.
 
 All ORFE department offices are located in Sherrerd Hall, except Prof. Ramon van Handel.
 
