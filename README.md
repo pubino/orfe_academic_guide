@@ -130,7 +130,7 @@ In addition to meeting the usual Engineering School requirements, students will 
 
 * Senior Thesis - ORF 478 - A full year effort that involves a major application of the techniques in the program applied to a topic that a student chooses in consultation with a faculty advisor. Students interested in a full-year senior thesis must be willing to spend the appropriate time during both the fall and the spring semesters. Students who are unable to make adequate progress can switch to ORF 479 and be required to take eleven departmental electives. Students will enroll in the spring and will receive credit for two course grades given in the spring.
 
-OR
+**OR**
 
 * Senior Independent Project - ORF 479 (Spring semester only) - A short progress report will be due in January, (Dean's Date) to make sure that the students have chosen a suitable topic and matched up with their advisor. The final outcome will be a report due at the end of the spring semester. The report will fully describe the research project and its results. Typically projects will take approximately 30 to 50 pages. **(Also, students who take the independent project will need to take an additional 4XX ORFE departmental elective.)**
 
@@ -278,3 +278,40 @@ Students often wish to follow a theme in their selection of courses. Below are a
 * Machine Learning: COS 217, 226; ORF 350, 407, 411, 418
 * Pre-Med/Health Care: CHM 301, 302; MOL 345; ORF 350, 401, 411, 418
 * Statistics: ORF 311, 350, 409, 418, 405, 467
+
+### Junior Independent Work
+(Optional)
+
+Students selecting Junior Independent Work need to prepare a proposal including the following:
+
+1. Title
+2. 100 word abstract/literature. Abstract will describe the problem, why it is important, why you want to study it and what you hope to have accomplish by the end of the semester.
+3. "Syllabus" containing weekly readings and work plan. What you will focus on and what you plan to accomplish in each week of the semester.
+4. Table of contents of the final report that you will prepare that will form the basis of the grade that you will receive.
+5. Find a faculty member that will supervise you in the pursuit of the above.
+6. Obtain Departmental Representative's approval of what you have put together in response to the above.
+
+The proposal and signed Junior Independent Study Form must be submitted to <tzigler@princeton.edu> prior to enrollment during the registrar's open enrollment period. The requirements for satisfactory completion of the study (such as reports, examinations, etc.) are set by the faculty mentor, not the Department, and the student should be clear about them when the work is begun.
+
+### Senior Thesis (ORF 478)
+
+This begins in the spring semester in the junior year, with a selection process to insure that students are matched with a faculty member based on the preferences of the students.
+
+Students interested in a full-year senior thesis must be willing to spend the appropriate time during both the fall and the spring semesters. Two course grades will be given in the spring.
+
+Students who are unable to make adequate progress can switch to the Senior Independent Project (below) and be required to take eleven departmental electives.
+
+Three reports are required leading up to the final thesis report. The first is due in September, the second in November, and the third in February. The research results will be presented to faculty and students at the end of the spring semester. For more information refer to the senior thesis guide on our website <https://orfe.princeton.edu/documents/senior-thesis-guide>.
+
+**OR**
+
+### Senior Independent Project (ORF 479, Spring Semester Only)
+
+Students will choose an advisor during junior year, spring semester, based on the usual arrangement -- attending presentations by the ORFE faculty, reading the Faculty Interests Guide and meeting with individual faculty members. Students will select a broad topic, and rank faculty according to their preferences.
+
+A short progress report will be due in January, (Dean's Date) to make sure that the students have chosen a suitable topic and matched up with their advisor. The final outcome will be a report due at the end of the spring semester. The report will fully describe the research project and its results. Typically projects will take approximately 30 to 50 pages. Also, students who take the independent project will need to take an additional 4XX ORF course, for a total of eleven electives.
+
+### Typical Course Schedule
+
+### Elective Checklist
+
